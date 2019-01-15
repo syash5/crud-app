@@ -1,1 +1,1 @@
-# crud-app
+# simple django crud-app using mysql db
